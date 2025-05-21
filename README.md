@@ -102,4 +102,3 @@ Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya melalui:
 
 - Email: samuelgaluhdiaspramudya@gmail.com
 - GitHub: samuelgaluh
-  Dibuat dengan ❤️ oleh [Samuel]
